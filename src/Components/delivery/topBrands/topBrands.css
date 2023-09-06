@@ -1,0 +1,17 @@
+.top-brands {
+    padding-top: 30px;
+}
+
+.top-brands-cover {
+    height: 210px;
+    width: 210px;
+    background-color: var(--primary-bg);
+    box-shadow: var(--collection-shadow);
+}
+
+.top-brands-cover-image {
+    height: 100%;
+    width: 94%;
+    padding: 10px 10px;
+    object-fit: cover;
+}

@@ -1,0 +1,16 @@
+.filters {
+    padding: 16px 0px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.filter-items {
+    background-color: var(--gray);
+    color: var(--primary-bg);
+    transition: 0.15s ease-in-out;
+}
+
+.filter-items:hover {
+    font-size: 18px;
+}

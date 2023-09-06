@@ -1,0 +1,21 @@
+#root {
+    --primary-box-shadow: rgb(28 28 28 / 8%) 0px 2px 8px;
+    --border-white: rgb(232, 232, 232);
+    --primary-bg: rgb(255, 255, 255);
+    --location-text-color: #828282;
+    --location-red: rgb(238, 44, 92);
+    --gray: rgb(217, 38, 98);
+    --inactive-text-color: #696969;
+    --filter-text-color: #9c9c9c;
+    --heading-text-color: #1c1c1c;
+    --collection-shadow: rgb(0 0 0 / 8%) 0px 3px 12px;
+    --inactive-color: #f8f8f8;
+    --tag-red: rgb(217, 38, 98);
+    --tag-blue: rgb(37, 111, 239);
+    --tag-green: #267E3E;
+    --res-color: #5a5959;
+    --collection-text-color: #363636;
+    --zmt-red: #FF7E8B;
+    --bg-gradient: linear-gradient(0deg, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0.05) 50%, rgba(0, 0, 0, 0.05) 85%);
+    --footer-bg: rgb(51, 51, 51);
+}
